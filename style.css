@@ -4,4 +4,6 @@ h2 {
   Font:  sans-serif; 
   font size: 12px;
 }
- 
+body {
+    background-color: white;
+}
