@@ -2,7 +2,7 @@
 h2 {
   color: green; 
   font-family: sans-serif; 
-  font-size: 12px;
+  font-size: 14px;
 }
 ul {
   list-style-type: none;
@@ -18,7 +18,7 @@ li {
 
 li a {
     display: block;
-    color: rgb (0, 100, 150);
+    color: green;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
