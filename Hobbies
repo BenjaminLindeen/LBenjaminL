@@ -1,0 +1,19 @@
+  <!DOCTYPE HTML>
+<HTML>
+<meta charset="uft-8">
+  <title> BenjaminLindeen </title>
+ <head> Hobbies
+  <link rel="stylesheet" type="text/css" href="style.css"> 
+ </head>
+<Body>
+  <h2> My  Hobbies are
+  <ol>
+    <li> PC Gaming </li>
+    <li> Taekwondo </li>
+    <li> HAnging out with friends </li>
+    <li> Debate </li>
+    <li> Knowledge Bowl </li>
+  </ol>
+  </h2>
+  <body>
+  <HTML>
