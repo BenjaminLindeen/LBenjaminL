@@ -26,4 +26,6 @@ li a {
 body {
     background-color:lightblue;
 }
-
+table, th, td {
+    border: 1px solid black;
+}
