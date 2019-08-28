@@ -9,7 +9,7 @@ ul {
     margin: 10;
     padding: 10;
     overflow: hidden;
-    background-color: white;
+    background-color: black;
 }
 
 li {
@@ -27,5 +27,5 @@ body {
     background-color:black;
 }
 table, th, td {
-    border: 3px solid Blue;
+    border: 3px solid black;
 }
