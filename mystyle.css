@@ -18,14 +18,14 @@ li {
 
 li a {
     display: block;
-    color: black;
+    color: White;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
 }
 body {
-    background-color:lightblue;
+    background-color:white;
 }
 table, th, td {
-    border: 3px solid black;
+    border: 3px solid Dark Blue;
 }
