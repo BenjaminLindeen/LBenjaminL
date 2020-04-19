@@ -18,7 +18,7 @@ li {
 
 li a {
     display: block;
-    color: white;
+    color: black;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -27,5 +27,5 @@ body {
     background-color:white;
 }
 table, th, td {
-    border: 3px solid grey;
+    border: 3px solid black;
 }
